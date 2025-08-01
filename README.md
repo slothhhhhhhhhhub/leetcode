@@ -1,9 +1,9 @@
 # LeetCode Solutions
 
 |  #  |  Title  |  Difficulty  |
---------------------------------------------
-|  1768 | [Merging Strings Alternatively](https://leetcode.com/problems/merge-strings-alternately/) |  Easy  |
+|------|---------|-----------------|
+|  1768 |  [Merging Strings Alternatively](https://leetcode.com/problems/merge-strings-alternately/) |  Easy  |
 |  412  |  [FizzBuz](https://leetcode.com/problems/fizz-buzz/description/)  |  Easy  |
-|   125 |   [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |   Easy    |
-|   345    | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)    |   Easy    |
-|   392    | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)    |    Easy    |
+|  125  |  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |   Easy    |
+|  345  |  [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)    |   Easy    |
+|  392  |  [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)    |    Easy    |
