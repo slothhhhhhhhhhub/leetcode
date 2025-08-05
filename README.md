@@ -7,3 +7,4 @@
 |  125  |  [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |   Easy    |
 |  345  |  [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)    |   Easy    |
 |  392  |  [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)    |    Easy    |
+|   1431   | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)    |   Easy    |
