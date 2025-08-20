@@ -11,3 +11,6 @@
 |  1071  | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)  | Easy   |
 |   605 |   [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)   |   Easy    |
 |   238 |   [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)  |   Medium  |
+|   334 |   [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)  |   Medium  |
+|   283 |   [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |   Easy    |
+|   151 |   [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)   |   Medium  |
