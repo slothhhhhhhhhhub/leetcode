@@ -14,3 +14,6 @@
 |   334 |   [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)  |   Medium  |
 |   283 |   [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |   Easy    |
 |   151 |   [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)   |   Medium  |
+|   11  |   [Container with Most Water](https://leetcode.com/problems/container-with-most-water/description/)   |   Medium  |
+|   643 |   [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) |   Easy    |
+|   1456 |  [Maximum Number of Vowels in a Substring of a Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | Medium  |
